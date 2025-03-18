@@ -19,7 +19,7 @@
       width: auto;
       height: auto;
       padding: 8px;
-      background-color: #333;
+      background-color: #00cc00;
       border-radius: 4px;
       box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
       pointer-events: none;
@@ -54,7 +54,7 @@
   .total {
       border-top: 2px solid #888 !important;
       font-weight: bold !important;
-      background-color: #2A2A2A;
+      background-color: #009999;
   }
   
   .numeric {
