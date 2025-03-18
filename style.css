@@ -9,8 +9,8 @@
   }
   
   body {
-      background-color: #fffff;
-      color: #00cc00;
+      background-color: #DFFFD6;
+      color: #333;
       font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   }
   
@@ -19,42 +19,42 @@
       width: auto;
       height: auto;
       padding: 8px;
-      background-color: #00cc00;
+      background-color: #A8E6A3;
       border-radius: 4px;
-      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
       pointer-events: none;
       font-size: 14px;
-      color: #fff;
+      color: #000;
       z-index: 2;
   }
   
   .reportTable {
       font-family: 'Open Sans', Helvetica, Arial, Noto Sans TC, Noto Sans SC, sans-serif;
-      color: #D3D3D3;
+      color: #333;
       border-collapse: collapse;
       border-spacing: 5px;
       table-layout: fixed;
-      background-color: #252525;
+      background-color: #BFFFC9;
   }
   
   th.headerCell {
-      background-color: #2A3B66;
-      color: white;
+      background-color: #72C472;
+      color: black;
       padding: 10px;
-      border-bottom: 2px solid #3B4C7E;
+      border-bottom: 2px solid #5DA05D;
       text-align: left;
   }
   
   .rowCell {
       vertical-align: middle;
       padding: 8px;
-      border-bottom: 1px solid #3B3B3B;
+      border-bottom: 1px solid #A3D6A3;
   }
   
   .total {
-      border-top: 2px solid #888 !important;
+      border-top: 2px solid #4F8F4F !important;
       font-weight: bold !important;
-      background-color: #009999;
+      background-color: #A8E6A3;
   }
   
   .numeric {
@@ -62,7 +62,7 @@
   }
   
   .negative {
-      color: #FF6B6B;
+      color: #D9534F;
   }
   
   .deviceBreakdown {
