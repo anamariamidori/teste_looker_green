@@ -12,6 +12,7 @@
       background-color: #fffff;
       color: #fffff;
       font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+      font-weight: bold !important;
   }
   
   #tooltip {
@@ -30,6 +31,7 @@
   
   .reportTable {
       font-family: 'Open Sans', Helvetica, Arial, Noto Sans TC, Noto Sans SC, sans-serif;
+      font-weight: bold !important;
       color: #000000;
       border-collapse: collapse;
       border-spacing: 5px;
@@ -41,7 +43,7 @@
       background-color: #72C472;
       color: black;
       padding: 10px;
-      border-bottom: 2px solid #5DA05D;
+      border-bottom: 2px solid #000000;
       text-align: left;
   }
   
